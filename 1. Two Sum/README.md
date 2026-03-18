@@ -1,5 +1,8 @@
 # Two Sum
 
+The difference of current value and target must be in the list
+If so return their indices
+
 ``` java
 import java.util.Arrays;
 import java.util.HashMap;

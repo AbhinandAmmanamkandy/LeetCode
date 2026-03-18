@@ -1,5 +1,7 @@
 # Zigzag Conversion
 
+Store it in a 2D array and retrieve it
+
 ``` java
 public class Main {
     public static String convert(String s, int numRows) {

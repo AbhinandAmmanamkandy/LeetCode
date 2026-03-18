@@ -1,5 +1,7 @@
 # Add Two Numbers
 
+Use carry and sum to do the addition
+
 ``` java
 public class Main {
     public static class ListNode {

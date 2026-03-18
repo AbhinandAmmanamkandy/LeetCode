@@ -1,5 +1,11 @@
 # 3. Longest Substring Without Repeating Characters
 
+Use two pointers to point left and right
+If the character at right is in the ArrayList, pop it from
+ArrayList from the first and move the left pointer.
+
+right - left + 1 is used to find length of max substring 
+
 ``` java
 import java.util.ArrayList;
 
